@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+"""Simple demo of hatching gourad shader.
+"""
+
 import argparse
 from pathlib import Path
 import math
